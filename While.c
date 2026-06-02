@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(){
-    int i = 1;
+    int i = 1; // Variável de incremento
 
-    while (i <= 10) {
-        printf("%d\n", i);
-        i++;
+    while (i <= 10) { // Condição
+        printf("%d\n", i); // Saída
+        i++; //Incremento
     }
     
  
